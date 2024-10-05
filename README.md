@@ -1,6 +1,6 @@
 Hi! my name is Matthiepatootie (@matthiepatootie). 
 
-I'm always curious and enjoy exploring new things that pique my interest. As of now, I'm currently diving into the world of web development, learning the basics to build things online.
+I'm always curious and enjoy exploring new things that pique my interests. As of now, I'm currently diving into the world of web development, learning the basics to build things online.
 
 While my background isn't actually in the field of Computer Science but Political Science, I've been lurking around this field for a while now and have found myself falling in love with it!
 This journey has taught me that even if you feel like you're in the wrong field, it's never too late to explore new passions.  
